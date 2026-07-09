@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm İsmail Yücel! 👋
 
-<!--
-**ismailyucel/ismailyucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent Management Information Systems (MIS) graduate from Doğuş University, passionate about bridging the gap between business processes and technical solutions. My career objective is to become a proficient SAP Consultant, with a strong focus on ABAP programming and functional modules like MM (Materials Management) and SD (Sales and Distribution).
 
-Here are some ideas to get you started:
+🚀 **What I'm currently working on:**
+*   Enhancing my SAP ABAP skills and understanding of core business modules.
+*   Recently completed the "AldeaCamp" training program organized by Kodluyoruz & SAP Turkey.
+*   Developing my graduation project: An AI-Powered Brand Reputation Scoring and Crisis Alert System, utilizing Python, BERTurk for sentiment analysis, web scraping (e-commerce platforms), and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack & Tools:**
+*   **Languages:** Python, SQL, ABAP (Beginner/Intermediate)
+*   **Data & AI:** Sentiment Analysis, NLP, Web Scraping
+*   **Others:** SAP NPL, Git, Relational Databases
+
+📫 **How to reach me:**
+*   [LinkedIn](Buraya_Kendi_LinkedIn_Linkini_Yapıştır)
+*   Email: Buraya_Kendi_Mail_Adresini_Yaz
+
+*"Constantly learning, whether it's optimizing code or analyzing complex data!"*
