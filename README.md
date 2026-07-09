@@ -13,7 +13,7 @@ I am a recent Management Information Systems (MIS) graduate from Doğuş Univers
 *   **Others:** SAP NPL, Git, Relational Databases
 
 📫 **How to reach me:**
-*   [LinkedIn]([Buraya_Kendi_LinkedIn_Linkini_Yapıştır](https://www.linkedin.com/in/ismaily%C3%BCcel/))
+*   [LinkedIn]([[Buraya_Kendi_LinkedIn_Linkini_Yapıştır](https://www.linkedin.com/in/ismaily%C3%BCcel/)])
 *   Email: ismailyucel0000@gmail.com
 
 *"Constantly learning, whether it's optimizing code or analyzing complex data!"*
