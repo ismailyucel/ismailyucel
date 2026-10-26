@@ -19,7 +19,7 @@ I am a recent Management Information Systems (MIS) graduate from Doğuş Univers
 
 ### 📫 How to reach me:
 
-- [LinkedIn](linkedin.com/in/ismailyücel)
+- [LinkedIn](https://www.linkedin.com/in/ismaily%C3%BCcel/?isSelfProfile=true)
 - Email: [ismailyucel0000@gmail.com](mailto:ismailyucel0000@gmail.com)
 
 *"Constantly learning, whether it's optimizing code or analyzing complex data!"*
